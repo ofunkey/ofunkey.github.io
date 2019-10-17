@@ -69,7 +69,6 @@ a {
 
 .grid-container {
   display: grid;
- /* height: 300px; */
   align-content: start;
 
   grid-template-columns: auto auto;
